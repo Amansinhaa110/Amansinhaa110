@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Amansinha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- HI I'm Work on **ApI**
+
+<div align="left">
+  - HI I'm Work on **ApI**
 
 - 🌱 I’m currently learning **Python**
 
@@ -16,6 +18,10 @@
 - 📫 How to reach me **amansinhaa779@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
+<div align="right"><a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/avento.gif" alt="satyamsinha110" height="300" width="300"></a></div>
+</div>
+  
+  
 <div align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/in2.webp" alt="satyamsinha110" height="100" width="100"></a>
