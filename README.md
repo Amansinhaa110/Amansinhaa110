@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Amansinha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<img align="right" src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/avento.gif" alt="coading" width="400">
 
 <div align="left">
   - HI I'm Work on **ApI**
@@ -18,10 +19,7 @@
 - 📫 How to reach me **amansinhaa779@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
-<div align="right"><a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/avento.gif" alt="satyamsinha110" height="300" width="300"></a></div>
-</div>
-  
-  
+    
 <div align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/in2.webp" alt="satyamsinha110" height="100" width="100"></a>
@@ -59,7 +57,8 @@
 </div>
 
 ## 👻 A little about me...  
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+<div> <img src = "https://github.com/Amansinhaa110/Amansinhaa110/blob/main/portfoilo.png"height="150"> 
+<P align ="left">I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.</P>
 
 I actively participate in hackathons and **multiple times became the winner of international competitions** (Below you can see diplomas and certificates). 
 I am also included in the **state register of persons with outstanding abilities**.
@@ -67,6 +66,7 @@ I am also included in the **state register of persons with outstanding abilities
 Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and algorithms, and also know how to work with big data. 
 
 At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
+</div>
 
 ```
 const Aman = {
