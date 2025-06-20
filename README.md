@@ -7,7 +7,6 @@
 
 <img align="right" src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/avento.gif" alt="coading" width="400">
 
-<div align="left">
   - HI I'm Work on **ApI**
 
 - 🌱 I’m currently learning **Python**
@@ -65,7 +64,7 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/git%20(2).webp" alt="Git" width="80" height="80"></a>
 </div>
 
-<h1><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/portfoilo.png" height="100px">👻 A little about me... </h1> 
+<h1><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/portfoilo.png" height="60px">👻 A little about me... </h1> 
 
 I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
