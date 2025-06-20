@@ -21,11 +21,20 @@
 - 📄 Know about my experiences [Fresher](Fresher)
     
 <div align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/in2.webp" alt="satyamsinha110" height="100" width="100"></a>
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/fb.png" alt="satyamsinha110" height="100" width="100"></a>
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/link.webp" alt="satyamsinha110" height="120" width="120"></a>
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/free-discord-9425462-7656439.webp" alt="satyamsinha110" height="100" width="100"></a><a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/leetcode-3628885-3030025.webp" alt="satyamsinha110" height="100"width="100" /></a>
+  <h3 align="left">Connect with me:</h3>
+  <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/in2.webp" alt="satyamsinha110" height="100" width="100"></a>
+  <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/fb.png" alt="satyamsinha110" height="100" width="100"></a>
+  <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/link.webp" alt="satyamsinha110" height="120" width="120"></a>
+  <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/free-discord-9425462-7656439.webp" alt="satyamsinha110" height="100" width="100"></a><a href="https://instagram.com/satyamsinha110" target="blank"><img   src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/leetcode-3628885-3030025.webp" alt="satyamsinha110" height="100"width="100" /></a>
+</div>
+
+<div>
+  <h1>Running Projects</h1>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/git%20(2).webp" alt="Git" width="80" height="80"></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/certificate1.webp" alt="Git" width="80" height="80"></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/canva333.webp" alt="Git" width="80" height="80"></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/figma.webp" alt="Git" width="80" height="80"></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/git%20(2).webp" alt="Git" width="80" height="80"></a>
 </div>
 
 <div><h3 align="left">Languages and Tools:</h3>
@@ -66,7 +75,6 @@ I am also included in the **state register of persons with outstanding abilities
 Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and algorithms, and also know how to work with big data. 
 
 At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
-</div>
 
 ```
 const Aman = {
