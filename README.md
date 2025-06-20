@@ -56,9 +56,9 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/git%20(2).webp" alt="Git" width="80" height="80"></a>
 </div>
 
-## 👻 A little about me...  
-<div> <img src = "https://github.com/Amansinhaa110/Amansinhaa110/blob/main/portfoilo.png"height="150"> 
-<P align ="left">I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.</P>
+<h1><img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/portfoilo.png" height="100px">👻 A little about me... </h1> 
+
+I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
 I actively participate in hackathons and **multiple times became the winner of international competitions** (Below you can see diplomas and certificates). 
 I am also included in the **state register of persons with outstanding abilities**.
