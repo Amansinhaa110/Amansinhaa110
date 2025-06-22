@@ -29,7 +29,7 @@
 
 <div>
   <h1>Running Projects</h1>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/netlify.svg" alt="Git" width="80" height="80"></a>
+  <a href="https://app.netlify.com/teams/amansinhaa110/projects" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/netlify.svg" alt="Git" width="80" height="80"></a>
   <a href="https://achievementgallery.netlify.app/" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/certificate1.webp" alt="Git" width="80" height="80"></a>
   <a href="https://satyamsinhaa779.wixsite.com/my-site" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/canva333.webp" alt="Git" width="80" height="80"></a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/figma.webp" alt="Git" width="80" height="80"></a>
