@@ -34,6 +34,7 @@
   <a href="https://satyamsinhaa779.wixsite.com/my-site" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/canva333.webp" alt="Git" width="80" height="80"></a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/figma.webp" alt="Git" width="80" height="80"></a>
   <a href="https://spectacular-cajeta-50986a.netlify.app/" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/music-logo-icon-png-31.png" alt="Git" width="80" height="80"></a>
+  <a href="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/important.txt" target="_blank"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/docs.png" alt="Important Docs" width="80" height="80"></a>
 </div>
 
 <div><h3 align="left">Languages and Tools:</h3>
