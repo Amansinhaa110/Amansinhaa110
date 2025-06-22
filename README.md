@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Amansinha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/avento.gif" alt="coading" width="400">
+<img align="right" src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/avento.gif" alt="coading" width="350">
 
   - HI I'm Work on **ApI**
 
