@@ -11,3 +11,5 @@ https://www.hackthebox.com/  === Website used to perform Hacking
 https://learn-anything.xyz/  === website used to learn anything and any programming language also
 https://skillshop.docebosaas.com/learn
 https://www.classcentral.com/report/free-google-certifications/
+https://www.all-hands.dev/   === Website used to resolve code error
+https://codtechitsolutions.in/internship === Website for cheap Intership
