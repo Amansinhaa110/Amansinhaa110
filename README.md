@@ -101,3 +101,6 @@ const Aman = {
 };
 ```
 
+<h1>Achievements</h1>
+<a href="https://achievementgallery.netlify.app" rel="noreferrer"> <img src="https://github.com/Amansinhaa110/Amansinhaa110/blob/main/LOR-%20CODEC%20TECHNOLOGIES_page-0001.jpg" alt="Git" height="600"width="350"></a>
+
