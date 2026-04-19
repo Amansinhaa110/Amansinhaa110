@@ -1,5 +1,5 @@
 <div>
-  <img src = "https://github.com/Amansinhaa110/Amansinhaa110/blob/main/bnaeer2.gif"
+  <img src = "https://github.com/Amansinhaa110/Amansinhaa110/blob/main/bnaeer2.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Amansinha</h1>
